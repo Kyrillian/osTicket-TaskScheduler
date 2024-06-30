@@ -7,11 +7,3 @@ If a check finds that the `Task Date` of an instance is in the past, a ticket wi
 Afterwards, the `Task Date` will be updated to a time in the future, corresponding to the `Task Interval` provided.
 
 This plugin makes use of record locking to prevent near-simultaneous activity creating multiple tickets before `Task Date` is updated.
-
-## Troubleshooting
-
-- Ensure the plugin is enabled and correctly configured.
-- Check the osTicket logs for any error messages.
-- Verify the API key and URL settings.
-
-Please do reach out about any issues with the plugin by creating an issue!
