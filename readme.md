@@ -4,6 +4,8 @@
 
 The Task Scheduler Plugin for osTicket is designed to automate the creation of recurring tickets based on a customizable schedule. This powerful tool helps streamline your workflow by ensuring that routine tasks and maintenance requests are automatically logged into your osTicket system, freeing up valuable time and resources.
 
+<img src="doc/img/04-configure.png" alt="Configuration page" width="600"/>
+
 ## Features
 - Automated Ticket Creation: Create tickets automatically based on a defined schedule.
 - Flexible Scheduling: Supports daily, weekly, monthly, yearly, and custom intervals.
