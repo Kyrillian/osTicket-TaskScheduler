@@ -19,6 +19,10 @@ The Task Scheduler Plugin for osTicket is designed to automate the creation of r
 3. [Configuration](doc/03-Configuration.md)
 4. [Usage](doc/04-Usage.md)
 
+## Update
+To update the plugin, simply copy any newer version over the existing one, overwriting everything in the process.
+On releases, where a separate updating procedure is necessary, this will be explicitly stated in the release notes.
+
 ## Troubleshooting
 
 - Ensure the plugin is enabled and correctly configured.
