@@ -3,7 +3,7 @@ set_include_path(get_include_path().PATH_SEPARATOR.dirname(__file__).'/include')
 
 return array(
     'id' => 'task-scheduler',
-    'version' => '0.1',
+    'version' => '0.1.1',
             'ost_version' => '1.17', # Require osTicket 1.17+
     'name' => 'Task Scheduler',
     'author' => 'Kyrillian',
